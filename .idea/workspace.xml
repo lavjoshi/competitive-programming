@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51496288-c0bc-45e3-ac5f-cc731376b74f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +35,20 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.InvertBinaryTree">
+  <component name="RunManager" selected="Application.DeleteNode">
+    <configuration name="DeleteNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.DeleteNode" />
+      <module name="competitive_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.junechallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InvertBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.InvertBinaryTree" />
       <module name="competitive_programming" />
@@ -74,9 +89,11 @@
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.YoungPhysicist" />
       <item itemvalue="Application.InvertBinaryTree" />
+      <item itemvalue="Application.DeleteNode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteNode" />
         <item itemvalue="Application.InvertBinaryTree" />
         <item itemvalue="Application.YoungPhysicist" />
         <item itemvalue="Application.Main" />
@@ -109,26 +126,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="653" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1591092286448">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="653" y="224" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591092286448" />
     <state width="416" height="466" key="DebuggerActiveHint" timestamp="1591034524496">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="416" height="466" key="DebuggerActiveHint/0.23.1680.956@0.23.1680.956" timestamp="1591034524496" />
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591034720193">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591092593184">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591034720193" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591034720192">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591092593184" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591092593181">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591034720192" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591034720192">
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591092593181" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591092593180">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591034720192" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591034720193">
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591092593180" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591092593183">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591034720193" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591092593183" />
     <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1591034577016">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
