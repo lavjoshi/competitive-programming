@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51496288-c0bc-45e3-ac5f-cc731376b74f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/QueueReconstruction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,22 +150,22 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="424" height="466" key="DebuggerActiveHint/0.23.1680.956@0.23.1680.956" timestamp="1591187022881" />
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591462411635">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591462427445">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591462411635" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591462411633">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591462427445" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591462427443">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591462411633" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591462411632">
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591462427443" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591462427442">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591462411632" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591462411633">
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591462427442" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591462427444">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591462411633" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591462427444" />
     <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1591187099119">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
