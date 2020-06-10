@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51496288-c0bc-45e3-ac5f-cc731376b74f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/SearchInsertPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,9 +34,22 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.PowerOfTwo">
+  <component name="RunManager" selected="Application.IsSubSequence">
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.CoinChange" />
+      <module name="competitive_programming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.junechallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.IsSubSequence" />
       <module name="competitive_programming" />
       <extension name="coverage">
         <pattern>
@@ -74,21 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.ReverseString" />
-      <module name="competitive_programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.junechallenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoCityScheduling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.TwoCityScheduling" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.SearchInsertPosition" />
       <module name="competitive_programming" />
       <extension name="coverage">
         <pattern>
@@ -101,19 +101,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TwoCityScheduling" />
-      <item itemvalue="Application.ReverseString" />
       <item itemvalue="Application.QueueReconstruction" />
       <item itemvalue="Application.CoinChange" />
       <item itemvalue="Application.PowerOfTwo" />
+      <item itemvalue="Application.SearchInsertPosition" />
+      <item itemvalue="Application.IsSubSequence" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsSubSequence" />
+        <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.CoinChange" />
         <item itemvalue="Application.QueueReconstruction" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.TwoCityScheduling" />
       </list>
     </recent_temporary>
   </component>
@@ -151,38 +151,38 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state width="424" height="466" key="DebuggerActiveHint/0.23.1680.956@0.23.1680.956" timestamp="1591187022881" />
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591626044820">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom" timestamp="1591824748919">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591626044820" />
-    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591626044819">
+    <state width="1638" height="256" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591824748919" />
+    <state width="1638" height="256" key="GridCell.Tab.0.center" timestamp="1591824748916">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591626044819" />
-    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591626044819">
+    <state width="1638" height="256" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591824748916" />
+    <state width="1638" height="256" key="GridCell.Tab.0.left" timestamp="1591824748914">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591626044819" />
-    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591626044820">
+    <state width="1638" height="256" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591824748914" />
+    <state width="1638" height="256" key="GridCell.Tab.0.right" timestamp="1591824748918">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591626044820" />
-    <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1591625991593">
+    <state width="1638" height="256" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591824748918" />
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1591824744361">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591625991593" />
-    <state width="1638" height="316" key="GridCell.Tab.1.center" timestamp="1591625991592">
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591824744361" />
+    <state width="1638" height="316" key="GridCell.Tab.1.center" timestamp="1591824744360">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1591625991592" />
-    <state width="1638" height="316" key="GridCell.Tab.1.left" timestamp="1591625991592">
+    <state width="1638" height="316" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1591824744360" />
+    <state width="1638" height="316" key="GridCell.Tab.1.left" timestamp="1591824744360">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1591625991592" />
-    <state width="1638" height="316" key="GridCell.Tab.1.right" timestamp="1591625991593">
+    <state width="1638" height="316" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1591824744360" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right" timestamp="1591824744361">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1591625991593" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1591824744361" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -216,6 +216,21 @@
           <url>file://$PROJECT_DIR$/src/leetcode/junechallenge/CoinChange.java</url>
           <line>12</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/junechallenge/SearchInsertPosition.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/junechallenge/SearchInsertPosition.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/junechallenge/SearchInsertPosition.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
