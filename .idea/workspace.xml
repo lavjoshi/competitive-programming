@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51496288-c0bc-45e3-ac5f-cc731376b74f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/aug/WordDictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/competitive_programming/leetcode/junechallenge/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/competitive_programming/leetcode/junechallenge/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/junechallenge/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/junechallenge/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.WordMain">
+  <component name="RunManager" selected="Application.VerticalOrder">
     <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.aug.IsPalindrome" />
       <module name="competitive_programming" />
@@ -74,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.junechallenge.SingleNumber2" />
+    <configuration name="VerticalOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.aug.VerticalOrder" />
       <module name="competitive_programming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.junechallenge.*" />
+          <option name="PATTERN" value="leetcode.aug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,17 +104,17 @@
     <list>
       <item itemvalue="Application.PlusOne" />
       <item itemvalue="Application.ReconstructItinerary" />
-      <item itemvalue="Application.SingleNumber2" />
       <item itemvalue="Application.IsPalindrome" />
       <item itemvalue="Application.WordMain" />
+      <item itemvalue="Application.VerticalOrder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VerticalOrder" />
         <item itemvalue="Application.WordMain" />
         <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.PlusOne" />
         <item itemvalue="Application.ReconstructItinerary" />
-        <item itemvalue="Application.SingleNumber2" />
       </list>
     </recent_temporary>
   </component>
@@ -147,42 +148,50 @@
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="653" y="224" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591092286448" />
-    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1596667611438">
+    <state width="448" height="466" key="DebuggerActiveHint" timestamp="1596830655803">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="448" height="466" key="DebuggerActiveHint/0.23.1680.956@0.23.1680.956" timestamp="1596667611438" />
-    <state width="1638" height="316" key="GridCell.Tab.0.bottom" timestamp="1596667650567">
+    <state width="448" height="466" key="DebuggerActiveHint/0.23.1680.956@0.23.1680.956" timestamp="1596830655803" />
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom" timestamp="1596830728655">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1596667650567" />
-    <state width="1638" height="316" key="GridCell.Tab.0.center" timestamp="1596667650566">
+    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1596830728655" />
+    <state width="1638" height="316" key="GridCell.Tab.0.center" timestamp="1596830728654">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1596667650566" />
-    <state width="1638" height="316" key="GridCell.Tab.0.left" timestamp="1596667650564">
+    <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1596830728654" />
+    <state width="1638" height="316" key="GridCell.Tab.0.left" timestamp="1596830728653">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1596667650564" />
-    <state width="1638" height="316" key="GridCell.Tab.0.right" timestamp="1596667650566">
+    <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1596830728653" />
+    <state width="1638" height="316" key="GridCell.Tab.0.right" timestamp="1596830728654">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1596667650566" />
-    <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1596667650440">
+    <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1596830728654" />
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom" timestamp="1596830728657">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1596667650440" />
-    <state width="1638" height="316" key="GridCell.Tab.1.center" timestamp="1596667650439">
+    <state width="1638" height="316" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1596830728657" />
+    <state width="1638" height="316" key="GridCell.Tab.1.center" timestamp="1596830728656">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1596667650439" />
-    <state width="1638" height="316" key="GridCell.Tab.1.left" timestamp="1596667650439">
+    <state width="1638" height="316" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1596830728656" />
+    <state width="1638" height="316" key="GridCell.Tab.1.left" timestamp="1596830728655">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1596667650439" />
-    <state width="1638" height="316" key="GridCell.Tab.1.right" timestamp="1596667650440">
+    <state width="1638" height="316" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1596830728655" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right" timestamp="1596830728656">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1596667650440" />
+    <state width="1638" height="316" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1596830728656" />
+    <state x="506" y="258" width="667" height="486" key="find.popup" timestamp="1596829570600">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="506" y="258" width="667" height="486" key="find.popup/0.23.1680.956@0.23.1680.956" timestamp="1596829570600" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1596829528311">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1596829528311" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -296,6 +305,41 @@
           <url>file://$PROJECT_DIR$/src/leetcode/aug/IsPalindrome.java</url>
           <line>9</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/WordDictionary.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/WordDictionary.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/WordDictionary.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/WordDictionary.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/VerticalOrder.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/VerticalOrder.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/aug/VerticalOrder.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/leetcode/junechallenge/ReconstructItinerary.java</url>
