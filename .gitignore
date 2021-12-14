@@ -28,3 +28,6 @@ coverage
 *.rdb
 package-lock.json
 out
+.idea
+*.iml
+out/production/*
