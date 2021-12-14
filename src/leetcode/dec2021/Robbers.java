@@ -23,7 +23,7 @@ public class Robbers {
         return dp[nums.length-1];
 
     }
-    }
+
 
     public static void main(String s[]){
         int nums[] = {2,7,9,3,1,3,4,5,6,2,2,2,3,5,6,7};
